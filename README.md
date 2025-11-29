@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <h1 align="center">👋 Hi, I'm Nana Kwame</h1>
-<h3 align="center">💻 Full-Stack Developer | React • Next.js • Node.js • Django | Building Scalable Web Apps</h3>
+<h3 align="center">💻 Full-Stack Developer | React • Next.js • Node.js • | Building Scalable Web Apps</h3>
 
 ---
 
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  
 </p>
 
 #### 🎨 UI & Styling  
@@ -36,7 +36,6 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
@@ -46,8 +45,8 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [💰 **Expense Tracker App**](#) | Mobile-friendly app to track daily expenses with analytics. | Java, Firebase |
-| [🛍️ **POS System**](#) | Point-of-Sale platform for managing inventory & transactions. | React, Node.js, MySQL |
+| [💰 **Expense Tracker App**](#) | Mobile-friendly app to track daily expenses with analytics. | Figma, Flutter, Firebase |
+| [🛍️ **POS System**](#) | Point-of-Sale platform for managing inventory & transactions. |Figma, python django, Postgresql |
 | [🌾 **AgriCredit Platform**](#) | Prototype connecting farmers to credit & insurance. | Next.js, Supabase |
 
 ---
